@@ -2,9 +2,9 @@
 # Ismael Correa Caetano, 23🥳
 
 ## Fala Galera! 👋
-🤪 Sou doido por tecnologia, em especial Programação!
-👨‍💻 Atualmente fazendo o curso da rocketseat o GoStack!
-👨‍💻📱Aprendendo React, ReactJS e React Native!
+<br/>🤪 Sou doido por tecnologia, em especial Programação!
+<br/>👨‍💻 Atualmente fazendo o curso da rocketseat o GoStack!
+<br/>👨‍💻📱Aprendendo React, ReactJS e React Native!
 
  <br/> 🤔Eu acho que as melhores formas de aprender são:
  <br/>👨‍💻👨‍🏫Praticando e Compartilhando informação!
