@@ -1,15 +1,17 @@
-Olá me chamo Ismael Correa Caetano, tenho 23 anos, atualmente morando em Vitoria-ES!
+<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
-👨‍🎓 Sou formado em tecnico em informatica, pelo IFES serra!<br>
-🤪 Sou doido por tecnologia, em especial Programação!<br>
-👨‍💻 Atualmente fazendo o curso da rocketseat o GoStack!<br>
-👨‍💻📱Aprendendo React, ReactJS e React Native!<br>
-🤔Eu acho que as melhores formas de aprender são:<br>
-👨‍💻👨‍🏫Praticando e Compartilhando informação!<br>
-Então estou aqui para isso divulgar projetos e tirar duvidas!<br>
 
-Para entrar em contato comigo pode chamar no:<br>
+# Thiago Marinho
 
-https://www.instagram.com/isma_caetano/<br>
-https://www.linkedin.com/in/ismael-correa-caetano-0a983a19a/<br>
-ismacaetano97@gmail.com<br>
+## Olá pessoal 👋
+Sou apaixonado por resolver problemas utilizando a programação.
+Sou um FullStack Developer :computer:
+
+ :rocket:  &nbsp; Estou trabalhando na **Rocketseat**
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
+ <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
+ <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL e seriados no Netflix
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
